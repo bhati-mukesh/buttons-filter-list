@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/buttons-filter-list/static/css/main.1048df02.css",
-    "main.js": "/buttons-filter-list/static/js/main.1f77d1d9.js",
+    "main.css": "/buttons-filter-list/static/css/main.c93944d1.css",
+    "main.js": "/buttons-filter-list/static/js/main.2abd79b4.js",
     "index.html": "/buttons-filter-list/index.html",
-    "main.1048df02.css.map": "/buttons-filter-list/static/css/main.1048df02.css.map",
-    "main.1f77d1d9.js.map": "/buttons-filter-list/static/js/main.1f77d1d9.js.map"
+    "main.c93944d1.css.map": "/buttons-filter-list/static/css/main.c93944d1.css.map",
+    "main.2abd79b4.js.map": "/buttons-filter-list/static/js/main.2abd79b4.js.map"
   },
   "entrypoints": [
-    "static/css/main.1048df02.css",
-    "static/js/main.1f77d1d9.js"
+    "static/css/main.c93944d1.css",
+    "static/js/main.2abd79b4.js"
   ]
 }

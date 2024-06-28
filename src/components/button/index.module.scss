@@ -1,0 +1,58 @@
+.btnContainer {
+
+  .btn {
+    margin: 10px;
+    border-radius: 15px;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+
+  .btn:hover {
+    opacity: 1;
+    box-shadow: 2px 2px 5px;
+  }
+
+  .nonActiveBtn {
+    opacity: 0.7;
+  }
+
+  .activeBtn {
+    opacity: 1;
+  }
+
+  .primaryBtn {
+    background: rgb(28, 120, 150);
+    border: 1px solid lightblue;
+  }
+
+  .primaryBtn:hover {
+    color: white;
+    box-shadow: 2px 2px 5px black;
+  }
+
+  .successBtn {
+    background: green;
+    border: 1px solid green;
+  }
+
+  .errorBtn {
+    background: red;
+    border: 1px solid red;
+  }
+
+  .infoBtn {
+    background: #17A2B8;
+    border: 1px solid #17A2B8;
+  }
+
+  .secondaryBtn {
+    background: lightgray;
+    border: 1px solid lightgray;
+  }
+
+  .warningBtn {
+    background: orange;
+    border: 1px solid orange;
+  }
+
+}

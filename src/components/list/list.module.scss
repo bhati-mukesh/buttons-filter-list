@@ -1,0 +1,42 @@
+.listItem {
+  border: 1px solid transparent;
+  padding: 10px 20px;
+  margin-top: 2px;
+  border-left-width: 5px;
+  background-color: antiquewhite;
+}
+
+.listContainer {
+  width: 100%;
+}
+
+
+.primaryList {
+  background-color: rgb(205, 205, 236);
+  border-left-color: blue;
+}
+
+.successList {
+  background: rgb(203, 214, 203);
+  border-left-color: green;
+}
+
+.errorList {
+  background: rgb(214, 183, 183);
+  border-left-color: red;
+}
+
+.warningList {
+  background: rgb(205, 174, 118);
+  border-left-color: orange;
+}
+
+.secondaryList {
+  background: rgb(242, 240, 240);
+  border-left-color: lightgray;
+}
+
+.infoList {
+  background: #a5c9ce;
+  border-left-color: #17A2B8;
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "type": "ACCEPTABLE",
+    "displayMessage": "line1 Machine-37 event-72"
+  },
+  {
+    "id": 2,
+    "type": "MONITOR",
+    "displayMessage": "line5 Machine-98 event-60"
+  },
+  {
+    "id": 3,
+    "type": "ACCEPTABLE",
+    "displayMessage": "line3 Machine-48 event-73"
+  },
+  {
+    "id": 4,
+    "type": "DANGER",
+    "displayMessage": "line9 Machine-66 event-93"
+  },
+  {
+    "id": 5,
+    "type": "NO_STATUS",
+    "displayMessage": "line5 Machine-05 event-00"
+  },
+  {
+    "id": 6,
+    "type": "ACCEPTABLE",
+    "displayMessage": "line3 Machine-01 event-39"
+  }
+]
